@@ -2,6 +2,7 @@
 status: pend
 ---
 
+
 # 1 Objective
 
 This project should have its own logo, documentation, product website, notes, specifications, associated projects, etc. In its own organization.
@@ -21,7 +22,6 @@ We need an app that puts these tools together.
 2025-08-22 Wk 34 Fri - 16:30
 
 We've migrated notes. There are broken links to look into.
-
 
 | Reference                                                                                                                                                                                                                                                            | Where                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |

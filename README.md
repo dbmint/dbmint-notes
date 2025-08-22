@@ -31,33 +31,35 @@ Welcome!
 
 Creating dbmint takes work! This repository shows the notes and the process behind making it.
 
-Go see the [[000 Dbmint|project main note]]!
+Go see the [main project note](https://github.com/dbmint/dbmint-notes/blob/webview/lan/docs/2025/000%20Dbmint.md)!
 
-For higher browser viewing compatibility, switch to the [webview branch](https://github.com/LanHikari22/lan-setup-notes/tree/webview).
+Feel free to check out [feature proposals](https://github.com/dbmint/dbmint-notes/blob/webview/lan/docs/2025/001%20New%20Feature%20Proposals.md#7-ideas) and give feedback or suggest more!
+
+For higher browser viewing compatibility, switch to the [webview branch](https://github.com/dbmint/dbmint-notes/tree/webview).
 
 # 2 See also
 
-1. [delta-trace](<https://github.com/delta-domain-rnd/delta-trace>)
-	- Notes and articles on creating proofs of concepts, researching, and studying.
-2. [lan-setup-notes](<https://github.com/LanHikari22/lan-setup-notes>) **You are here!**
-	- For notes on configurations and setting up of projects and systems.
-3. [dism-exe-notes](<https://github.com/dism-exe/dism-exe-notes/tree/main/lan>)
-	- For notes on the process of reverse engineering games, running code analysis, and creating new tools! This is about reverse engineering the Mega Man Battle Network series.
-4. [goldensun-notes](<https://github.com/FutureFractal/goldensun-notes/tree/main/lan>)
-	- Similar to `dism-exe-notes` but for reverse engineering the `goldensun` games on the `GBA`!
+1. [delta-trace](https://github.com/deltatraced/delta-trace/tree/webview)
+	- A knowledge base for researching, developing, studying, and experimenting!
+2. [lan-setup-notes](https://github.com/LanHikari22/lan-setup-notes/tree/webview)
+	- A knowledge base for tooling, diagnosing, investigating, and setting up systems!
+3. [dism-exe-notes](https://github.com/dism-exe/dism-exe-notes/tree/webview/lan)
+	- A knowledge base for reverse engineering and analyzing Mega Man Battle Network games!
+4. [goldensun-notes](https://github.com/FutureFractal/goldensun-notes/tree/webview/lan)
+	- A knowledge base for reverse engineering and analyzing Golden Sun GBA games!
+5. [dbmint-notes](https://github.com/dbmint/dbmint-notes/tree/webview) **You are here!**
+	- A knowledge base for developing intuitive and type correct database tools in Rust!
 
 # 3 Contributing
 
 All contributions are welcome! 
 
-Whether documentation, suggestions, comments, code, ideas, notes, or just chat! I look forward to your contributions!
+If you have any comments or suggestions you can reach out by opening an issue ticket or emailing lanhikarixx@gmail.com.
 
-Please feel free to contact me by opening an issue ticket or emailing lanhikarixx@gmail.com.
+If you find any issues on matters of performance, ergonomics, security, accuracy, practice, or related, please reach out!
 
-You can always chat with me. Please start the email title with `"GITCHAT"` so that I can find you!
-
-If you have any business related inquiries, please also reach out to me via email <lanhikarixx@gmail.com> and start the email title with `"GITBUSINESS"` so I can find you.
+One reason for making notes public is to make my creative process transparent and open to review by others to help me keep improving my process!
 
 # 4 License
 
-This theme is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © 2025 Mohammed Alzakariya.
+This work is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php) © 2025 Mohammed Alzakariya.
