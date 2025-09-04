@@ -1,7 +1,4 @@
-
-### 0.1.1 Pend
-
-# 1 Objective
+2025-08-29 Wk 35 Fri - 18:072025-08-28 Wk 35 Thu16:382025-08-26 Wk 35 Tue - 12:412025-08-25 Wk 35 Mon - 12:002025-08-23 Wk 34 Sat - 17:34# 1 Objective
 
 2025-08-14 Wk 33 Thu - 19:35
 
@@ -34,7 +31,7 @@ This is anchored by the [dbmt spec](https://github.com/LanHikari22/dbmint/blob/m
 	- [ ] Test going full circle `dmbt` -> `JSON` -> `dbmt`.
 
 ^impl-dbmt-py-objectives
-# 2 Journal
+# 1 Journal
 
 From [[001 Create Python and Rust parsing for dbmt language#^spawn-task-060600|^spawn-task-060600]] in [[001 Create Python and Rust parsing for dbmt language]]
 
@@ -214,9 +211,9 @@ We're creating a new repository for `dbmt-py`. Let's do this properly and apply 
 Spawn [[001 Create Python and Rust parsing for dbmt language#3.6 Add python pre-commit hooks to the project for style and correctness|Add python pre-commit hooks to the project for style and correctness]] ^spawn-task-11080d
 
 
-# 3 Tasks
+# 2 Tasks
 
-## 3.1 Create a python3 library project template
+## 2.1 Create a python3 library project template
 
 - [x] 
 
@@ -253,15 +250,15 @@ We added a `test.sh` that runs `python3 -m unittest` to run all the tests under 
 2025-08-14 Wk 33 Thu - 19:00
 
 You can find the template python3 library project [here](https://github.com/LanHikari22/lan-exp-scripts/tree/main/templates/2025/topics/py3/persistant/001-lan-library/library).
-# 4 Issues
+# 3 Issues
 
-# 5 HowTos
+# 4 HowTos
 
-# 6 Investigations
+# 5 Investigations
 
-# 7 Ideas
+# 6 Ideas
 
-# 8 Side Notes
-# 9 External Links
+# 7 Side Notes
+# 8 External Links
 
-# 10 References
+# 9 References
