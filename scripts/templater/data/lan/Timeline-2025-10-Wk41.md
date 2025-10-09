@@ -1,0 +1,7 @@
+
+# 1 Time Logs
+
+```simple-time-tracker
+{"entries":[{"name":"[[004 Create dbmts format with event sourcing support]]","startTime":"2025-10-09T05:00:00.000Z","endTime":"2025-10-09T05:50:00.000Z"},{"name":"[[000 Create rust template project]]","startTime":"2025-10-09T07:15:00.000Z","endTime":"2025-10-09T08:11:35.498Z"},{"name":"[[001 Create basic parsing of derive and es for dbmts]]","startTime":"2025-10-09T09:14:10.730Z","endTime":"2025-10-09T13:55:12.087Z"},{"name":"[[002 Group settings by table and enforce some conditions on the table and settings for dbmts]]","startTime":"2025-10-09T13:56:30.425Z","endTime":"2025-10-09T14:36:27.657Z"},{"name":"[[002 Group settings by table and enforce some conditions on the table and settings for dbmts]]","startTime":"2025-10-09T15:03:00.000Z","endTime":"2025-10-09T16:45:00.000Z"},{"name":"[[000 Preserve a last value and use it in iteration mapping]]","startTime":"2025-10-09T16:45:00.000Z","endTime":"2025-10-09T17:05:44.000Z"},{"name":"[[002 Group settings by table and enforce some conditions on the table and settings for dbmts]]","startTime":"2025-10-09T18:00:00.000Z","endTime":"2025-10-09T18:14:54.000Z"},{"name":"[[003 Impl writing the expanded event sourcing output given the grouped settings by table for dbmts]]","startTime":"2025-10-09T18:17:58.011Z","endTime":"2025-10-09T19:51:50.666Z"},{"name":"[[002 Group settings by table and enforce some conditions on the table and settings for dbmts]]","startTime":"2025-10-09T19:51:57.082Z","endTime":"2025-10-09T21:23:22.904Z"}]}
+```
+

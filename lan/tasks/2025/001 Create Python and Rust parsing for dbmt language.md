@@ -1192,7 +1192,7 @@ Actually in this [answer](https://stackoverflow.com/a/74625055) they're saying r
 
 - [x] 
 
-From [[#^spawn-howto-061103]].
+From [[#^spawn-howto-061103]] in [[#6.1 Invst what happened to table.refs for pydbml]]
 
 2025-08-06 Wk 32 Wed - 11:03
 
@@ -1227,7 +1227,7 @@ git diff tag1 tag2 -- some/file/name
 
 - [x] 
 
-From [[#^spawn-howto-061125]].
+From [[#^spawn-howto-061125]] in [[#6.1 Invst what happened to table.refs for pydbml]]
 
 2025-08-06 Wk 32 Wed - 11:25
 
@@ -1499,13 +1499,15 @@ cd PyDBML
 
 2025-08-06 Wk 32 Wed - 11:02
 
-[[#5.3 Git How to diff between two tags|HowTo]]. ^spawn-howto-061103
+Spawn [[#5.3 Git How to diff between two tags]] ^spawn-howto-061103
 
 2025-08-06 Wk 32 Wed - 11:23
 
 This is the [line](https://github.com/Vanderhoof/PyDBML/blob/8ffe299d2b371b6f8d286c6691e1f59c648969cb/pydbml/classes.py#L462) where refs was defined for pydbml in 0.3.4. 
 
-So when was this line changed? [[#5.4 Git Find out when a line in a file was changed after a commit|HowTo]]. ^spawn-howto-061125
+So when was this line changed? 
+
+Spawn [[#5.4 Git Find out when a line in a file was changed after a commit]] ^spawn-howto-061125
 
 By tag 1.0.0, that file itself doesn't exist anymore.
 
