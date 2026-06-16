@@ -1,4 +1,3 @@
-
 # 1 About
 
 You can find the project github page [here](https://github.com/LanHikari22/dbmint).
@@ -9,4 +8,4 @@ One aim with dbmint is to empower creators to create and operate databases in an
 
 # 2 Goals
 
-- [ ] [[000 Dbmint generates Rust db libraries from dbmt]]
+* [ ] [000 Dbmint generates Rust db libraries from dbmt](../../goals/2025/000%20Dbmint%20generates%20Rust%20db%20libraries%20from%20dbmt.md)

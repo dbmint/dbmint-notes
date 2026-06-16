@@ -1,15 +1,15 @@
 ---
-parent: "[[004 Create dbmts format with event sourcing support]]"
-spawned_by: "[[004 Create dbmts format with event sourcing support]]"
+parent: '[[004 Create dbmts format with event sourcing support]]'
+spawned_by: '[[004 Create dbmts format with event sourcing support]]'
 context_type: task
 status: done
 ---
 
-Parent: [[004 Create dbmts format with event sourcing support]]
+Parent: [004 Create dbmts format with event sourcing support](../004%20Create%20dbmts%20format%20with%20event%20sourcing%20support.md)
 
-Spawned by: [[004 Create dbmts format with event sourcing support]]
+Spawned by: [004 Create dbmts format with event sourcing support](../004%20Create%20dbmts%20format%20with%20event%20sourcing%20support.md)
 
-Spawned in: [[004 Create dbmts format with event sourcing support#^spawn-task-49a28a|^spawn-task-49a28a]]
+Spawned in: [<a name="spawn-task-49a28a" />^spawn-task-49a28a](../004%20Create%20dbmts%20format%20with%20event%20sourcing%20support.md#spawn-task-49a28a)
 
 # 1 Journal
 
@@ -33,7 +33,7 @@ It seems buy me a coffee was added as a funding option thanks to this [discussio
 
 2025-10-09 Wk 41 Thu - 09:57 +03:00
 
-```
+````
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"
          alt="License: MIT" height="25">
@@ -42,13 +42,13 @@ It seems buy me a coffee was added as a funding option thanks to this [discussio
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png"
          alt="Buy Me A Coffee" height="25">
   </a>
-```
+````
 
 Finally this works.
 
 2025-10-09 Wk 41 Thu - 10:15 +03:00
 
-```
+````
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -60,11 +60,11 @@ Finally this works.
          alt="Buy Me A Coffee" height="25">
   </a>
 </p>
-```
+````
 
-I am not sure why there's this slight blue `_` 
+I am not sure why there's this slight blue `_`
 
-![[Pasted image 20251009101611.png]]
+![Pasted image 20251009101611.png](../../../../../attachments/Pasted%20image%2020251009101611.png)
 
 Anyway I'll go with this.
 
@@ -74,7 +74,7 @@ In some time we should look into setting up github sponsors.
 
 It looks differently when vscode renders it (markdown.showPreviewToSide),
 
-![[Pasted image 20251009103134.png]]
+![Pasted image 20251009103134.png](../../../../../attachments/Pasted%20image%2020251009103134.png)
 
 2025-10-09 Wk 41 Thu - 10:33 +03:00
 
@@ -82,7 +82,7 @@ We need to add contributing.md similar to [gh Utagai/shi](https://github.com/Uta
 
 2025-10-09 Wk 41 Thu - 10:52 +03:00
 
-```
+````
 <p align="center">
   <a href="https://github.com/TODO/TODO/actions/workflows/rust.yml?query=branch%3Amain">
     <img src="https://github.com/TODO/TODO/workflows/Rust/badge.svg"
@@ -97,4 +97,4 @@ We need to add contributing.md similar to [gh Utagai/shi](https://github.com/Uta
          alt="Buy Me A Coffee" height="20">
   </a>
 </p>
-```
+````

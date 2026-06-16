@@ -14,16 +14,14 @@
   </a>
 </p>
 
-
 <div align="center">
   <sub>Built with ❤︎ by Mohammed Alzakariya</sub>
 </div>
 
-
 1. [1 What is this?](#1-what-is-this)
-2. [2 See also](#2-see-also)
-3. [3 Contributing](#3-contributing)
-4. [4 License](#4-license)
+1. [2 See also](#2-see-also)
+1. [3 Contributing](#3-contributing)
+1. [4 License](#4-license)
 
 # 1 What is this?
 
@@ -40,19 +38,19 @@ For higher browser viewing compatibility, switch to the [webview branch](https:/
 # 2 See also
 
 1. [delta-trace](https://github.com/deltatraced/delta-trace/tree/webview)
-	- A knowledge base for researching, developing, studying, and experimenting!
-2. [lan-setup-notes](https://github.com/LanHikari22/lan-setup-notes/tree/webview)
-	- A knowledge base for tooling, diagnosing, investigating, and setting up systems!
-3. [dism-exe-notes](https://github.com/dism-exe/dism-exe-notes/tree/webview/lan)
-	- A knowledge base for reverse engineering and analyzing Mega Man Battle Network games!
-4. [goldensun-notes](https://github.com/FutureFractal/goldensun-notes/tree/webview/lan)
-	- A knowledge base for reverse engineering and analyzing Golden Sun GBA games!
-5. [dbmint-notes](https://github.com/dbmint/dbmint-notes/tree/webview) **You are here!**
-	- A knowledge base for developing intuitive and type correct database tools in Rust!
+   * A knowledge base for researching, developing, studying, and experimenting!
+1. [lan-setup-notes](https://github.com/LanHikari22/lan-setup-notes/tree/webview)
+   * A knowledge base for tooling, diagnosing, investigating, and setting up systems!
+1. [dism-exe-notes](https://github.com/dism-exe/dism-exe-notes/tree/webview/lan)
+   * A knowledge base for reverse engineering and analyzing Mega Man Battle Network games!
+1. [goldensun-notes](https://github.com/FutureFractal/goldensun-notes/tree/webview/lan)
+   * A knowledge base for reverse engineering and analyzing Golden Sun GBA games!
+1. [dbmint-notes](https://github.com/dbmint/dbmint-notes/tree/webview) **You are here!**
+   * A knowledge base for developing intuitive and type correct database tools in Rust!
 
 # 3 Contributing
 
-All contributions are welcome! 
+All contributions are welcome!
 
 If you have any comments or suggestions you can reach out by opening an issue ticket or emailing lanhikarixx@gmail.com.
 

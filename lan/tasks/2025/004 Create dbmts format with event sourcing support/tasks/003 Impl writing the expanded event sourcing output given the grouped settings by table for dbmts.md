@@ -1,15 +1,15 @@
 ---
-parent: "[[004 Create dbmts format with event sourcing support]]"
-spawned_by: "[[004 Create dbmts format with event sourcing support]]"
+parent: '[[004 Create dbmts format with event sourcing support]]'
+spawned_by: '[[004 Create dbmts format with event sourcing support]]'
 context_type: task
 status: done
 ---
 
-Parent: [[004 Create dbmts format with event sourcing support]]
+Parent: [004 Create dbmts format with event sourcing support](../004%20Create%20dbmts%20format%20with%20event%20sourcing%20support.md)
 
-Spawned by: [[004 Create dbmts format with event sourcing support]]
+Spawned by: [004 Create dbmts format with event sourcing support](../004%20Create%20dbmts%20format%20with%20event%20sourcing%20support.md)
 
-Spawned in: [[004 Create dbmts format with event sourcing support#^spawn-task-8f580d|^spawn-task-8f580d]]
+Spawned in: [<a name="spawn-task-8f580d" />^spawn-task-8f580d](../004%20Create%20dbmts%20format%20with%20event%20sourcing%20support.md#spawn-task-8f580d)
 
 # 1 Journal
 
@@ -29,7 +29,7 @@ Implemented the driver!
 
 (HowTo) Checked `001 pulldown cmark to cmark escapes first obsidian tag on writeback` on `lan-setup-notes` for multiline string to file inline in the command
 
-```sh
+````sh
 # in /home/lan/src/cloned/gh/dbmint/dbmts_rs
 cargo run to_sql <(cat << 'EOF'
 CREATE TABLE coin_store_diffs (
@@ -43,13 +43,13 @@ EOF
 
 # out
 [nothing]
-```
+````
 
 It seems the string is empty, so it prints nothing.
 
 Right, we meant this:
 
-```sh
+````sh
 # in /home/lan/src/cloned/gh/dbmint/dbmts_rs
 cargo run to_sql <(cat << 'EOF'
 #[derive(EventSourcing)]
@@ -67,9 +67,9 @@ EOF
 # out (error, relevant)
 thread 'main' panicked at src/main.rs:38:14:
 Failed to group settings by table: IdAndObjIdMustBePresent
-```
+````
 
-It is present. Let's continue testing these in [[002 Group settings by table and enforce some conditions on the table and settings for dbmts]]
+It is present. Let's continue testing these in [002 Group settings by table and enforce some conditions on the table and settings for dbmts](002%20Group%20settings%20by%20table%20and%20enforce%20some%20conditions%20on%20the%20table%20and%20settings%20for%20dbmts.md)
 
 2025-10-10 Wk 41 Fri - 00:22 +03:00
 
